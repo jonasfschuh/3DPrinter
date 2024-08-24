@@ -1,8 +1,13 @@
-# Marlin 1.1.9.1 firmware - Modified by Jonas Fernando Schuh
+# BUILDING A LOW-COST 3D PRINTER
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<img src="https://marlinfw.org/assets/images/marlin-outrun-logo.svg" alt="Marlin" width="40" height="40">
+
+This project contains changes to the Marlin firmware version 1.1.9.1 to adapt it to a functional 3D printer prototype that uses the Arduino Mega 2560 platform and the Ramps board version 1.4.
+
+**ABSTRACT**
 
 This work presents the construction of a low-cost 3D printer. The main objective is to
 implement the assembly of the solution using low-cost parts, with open source hardware and
@@ -20,7 +25,13 @@ having only one stepper motor to perform the movement that promotes reduction in
 and complexity. Finally, the results obtained through the tests carried out demonstrate that the
 work developed achieved its objectives.
 
+Presentations: 
+English:
+Portuguese:
 
+Final project: 
+English:
+Portuguese: 
 
 
 Videos:
@@ -59,7 +70,4 @@ https://www.youtube.com/watch?v=t3-y2vRR56A&list=PLpv83GdwnciMt2og577o_fMA764DJ-
 
 Line Follower Robot
 https://studio.youtube.com/video/TrxGRvtb324/edit
-
-
-
 
