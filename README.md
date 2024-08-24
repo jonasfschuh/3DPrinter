@@ -38,14 +38,17 @@ Keywords: 3D Printing, CNC, Arduino, Ramps, Low Cost.
 3D Printer protype (January 2024)
 ![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/3D%20Printer%20prototype.gif?raw=true&sanitize=true)
 
+
 Functional 3D Printer (July 2024)
 ![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/Functional%203D%20Printer.gif?raw=true&sanitize=true)
+
 
 3D Printer - Eçectrical Schmatic 
 ![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/electrical%20schematic%20drawing.gif?raw=true&sanitize=true)
 
+
 Grade 
-![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/grade.gif?raw=true&sanitize=true)
+![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/Grade.gif?raw=true&sanitize=true)
 
 
 # Presentations
@@ -54,10 +57,10 @@ Grade
 [Portuguese - apresentacao_tcc_sis_2024_JonasFernandoSchuh-VF](https://github.com/jonasfschuh/3DPrinter/blob/main/Presentation/Portuguese/apresentacao_tcc_sis_2024_1_JonasFernandoSchuh-VF.pdf) 
 
 
-
 # Final Project
-English:
-Portuguese: 
+[English - finalproject_sys_2024_1_JonasFernandoSchuh-FV](https://github.com/jonasfschuh/3DPrinter/blob/main/Final%20project/English/finalproject_sys_2024_1_JonasFernandoSchuh-FV.pdf)
+
+[Portuguese - tcc_sis_2024_1_JonasFernandoSchuh-VF](https://github.com/jonasfschuh/3DPrinter/blob/main/Final%20project/Portuguese/tcc_sis_2024_1_JonasFernandoSchuh-VF.pdf)
 
 
 ## Videos
