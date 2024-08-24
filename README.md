@@ -3,7 +3,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<img src="https://marlinfw.org/assets/images/marlin-outrun-logo.svg" alt="Marlin" width="100" height="100">
 
 This project contains changes to the Marlin firmware version 1.1.9.1 to adapt it to a functional 3D printer prototype that uses the Arduino Mega 2560 platform and the Ramps board version 1.4.
 
@@ -25,16 +24,31 @@ having only one stepper motor to perform the movement that promotes reduction in
 and complexity. Finally, the results obtained through the tests carried out demonstrate that the
 work developed achieved its objectives.
 
-Presentations: 
+## Table of Contents
+
+- [Photos](#photos)
+- [Presentation](#presentations)
+- [Final project](#FinalProject)
+- [Videos](#videos)
+
+## Photos
+
+#3D Printer protype (January 2024)
+![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/3D%20Printer%20prototype.gif?raw=true&sanitize=true)
+
+
+# Presentations
 English:
+
 Portuguese:
 
-Final project: 
+# Final Project
 English:
 Portuguese: 
 
 
-Videos:
+## Videos
+
 Building a low-cost 3D printer
 https://www.youtube.com/watch?v=COdkKwUlTvM
 
@@ -70,4 +84,17 @@ https://www.youtube.com/watch?v=t3-y2vRR56A&list=PLpv83GdwnciMt2og577o_fMA764DJ-
 
 Line Follower Robot
 https://studio.youtube.com/video/TrxGRvtb324/edit
+
+
+
+
+
+
+
+
+
+
+
+
+
 
