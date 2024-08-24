@@ -24,6 +24,8 @@ having only one stepper motor to perform the movement that promotes reduction in
 and complexity. Finally, the results obtained through the tests carried out demonstrate that the
 work developed achieved its objectives.
 
+Keywords: 3D Printing, CNC, Arduino, Ramps, Low Cost.
+
 ## Table of Contents
 
 - [Photos](#photos)
@@ -33,14 +35,25 @@ work developed achieved its objectives.
 
 ## Photos
 
-#3D Printer protype (January 2024)
+3D Printer protype (January 2024)
 ![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/3D%20Printer%20prototype.gif?raw=true&sanitize=true)
+
+Functional 3D Printer (July 2024)
+![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/Functional%203D%20Printer.gif?raw=true&sanitize=true)
+
+3D Printer - Eçectrical Schmatic 
+![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/electrical%20schematic%20drawing.gif?raw=true&sanitize=true)
+
+Grade 
+![Register as Admin](https://github.com/jonasfschuh/3DPrinter/blob/main/Images/grade.gif?raw=true&sanitize=true)
 
 
 # Presentations
-English:
+[English - finalproject_presentation_sys_2024_1_JonasFernandoSchuh-FV](https://github.com/jonasfschuh/3DPrinter/blob/main/Presentation/English/finalproject_presentation_sys_2024_1_JonasFernandoSchuh-FV.pdf)
 
-Portuguese:
+[Portuguese - apresentacao_tcc_sis_2024_JonasFernandoSchuh-VF](https://github.com/jonasfschuh/3DPrinter/blob/main/Presentation/Portuguese/apresentacao_tcc_sis_2024_1_JonasFernandoSchuh-VF.pdf) 
+
+
 
 # Final Project
 English:
