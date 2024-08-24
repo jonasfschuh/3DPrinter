@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<img src="https://marlinfw.org/assets/images/marlin-outrun-logo.svg" alt="Marlin" width="40" height="40">
+<img src="https://marlinfw.org/assets/images/marlin-outrun-logo.svg" alt="Marlin" width="100" height="100">
 
 This project contains changes to the Marlin firmware version 1.1.9.1 to adapt it to a functional 3D printer prototype that uses the Arduino Mega 2560 platform and the Ramps board version 1.4.
 
